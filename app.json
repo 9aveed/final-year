@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "sabziapp",
+    "slug": "sabziapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b4bdb883-1c1b-45a6-96a6-c93833f148d9"
+      }
+    },
+    "android": {
+      "package": "com.djkarim96.sabziapp"
+    }
+  }
+}
